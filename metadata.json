@@ -1,0 +1,6 @@
+{
+  "name": "PhonicFlow Go",
+  "description": "An AI-powered immersive language learning product.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
